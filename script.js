@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
-  // TinyBigTalks (11 Real Articles)
+  // TinyBigTalks (12 Real Articles)
+  {
+    id: 'tbt-10',
+    title: "Carey Mulligan and Oscar Isaac Bring Chaos to Beef Season 2",
+    excerpt: "Carey Mulligan and Oscar Isaac headline an explosive, chaotic new anthology story in Netflix's Beef Season 2. Read the review of the surreal episode 4.",
+    image: 'articles/image/beef_season_2_chaos_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/beef-season-2-carey-mulligan-oscar-isaac-2026.html'
+  },
   {
     id: 'tbt-9',
     title: "Justin Bieber Coachella 2026: History-Making Set with Tems, Wizkid, and Hailey's Support",
