@@ -8,6 +8,7 @@ const ARTICLE_DATA = [
     category: 'TinyBigTalks',
     url: 'articles/justin-bieber-coachella-set-2026.html'
   },
+  {
     id: 'tbt-8',
     title: "Lakers Stun Rockets in Playoff Opener: Luke Kennard & LeBron James Lead Upset",
     excerpt: "The Los Angeles Lakers delivered a massive 107-98 upset against the Houston Rockets in Game 1 of the 2026 NBA Playoffs, fueled by heroic performances from Luke Kennard and LeBron James.",
