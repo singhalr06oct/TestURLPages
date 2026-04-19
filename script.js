@@ -49,55 +49,87 @@ const ARTICLE_DATA = [
     url: 'https://www.tinybigtalks.online/articles/barcelona-atletico-madrid-ucl-quarter-final-2026.html'
   },
   // Other categories (restoring previous counts)
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `fin-${i + 1}`,
-    title: `Finance Strategy ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
+  {
+    id: 'fin-1',
+    title: 'ZUS Recalculates June Pensions: Polish Retirees See Major Relief',
+    excerpt: "The long-standing dispute over June pensions in Poland is finally over. ZUS has recalculated the payouts, adding up to 163 PLN to retirees wallets. Read the full financial breakdown....",
+    image: 'https://www.financereport.online/articles/image/zus_pensions_poland.webp',
     category: 'Finance',
-    url: 'https://www.financereport.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `tech-${i + 1}`,
-    title: `Future Tech ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'Tech',
-    url: 'https://www.techreport.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `life-${i + 1}`,
-    title: `Balanced Life ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'EOD Lifestyle',
-    url: 'https://www.eodreport.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `cric-${i + 1}`,
-    title: `Cricket Highlights ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'Cricket',
-    url: 'https://www.cricketreport.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `foot-${i + 1}`,
-    title: `Football World ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'Football',
-    url: 'https://www.footballreport.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
-    id: `race-${i + 1}`,
-    title: `Racing Series ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'Race',
-    url: 'https://www.racenews.online/'
-  })),
-  ...Array.from({ length: 5 }, (_, i) => ({
+    url: 'https://www.financereport.online/articles/zus-recalculates-june-pensions-poland.html'
+  },
+  {
+    id: 'fin-2',
+    title: 'Thousands Stranded: Major Flight Cancellations Across Australia and New Zealand',
+    excerpt: "Thousands of passengers abandoned as Jetstar, Qantas, Virgin Australia, and Air New Zealand face 97 flight cancellations and over 1,127 delays causing major travel disruptions...",
+    image: 'https://www.financereport.online/articles/image/aussie_flight_chaos.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/flight-cancellations-australia-new-zealand.html'
+  },
+  {
+    id: 'fin-3',
+    title: 'How AI Predicts Stock Market Trends 2026 | Earn More Money with AI Trading',
+    excerpt: "Discover how AI predicts stock market trends in 2026 and learn the top use cases and tools. Start leveraging artificial intelligence to earn more money in trading today....",
+    image: 'https://www.financereport.online/articles/image/ai_stock_predict_2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/how-ai-predicts-stock-market-trends-2026.html'
+  },
+  {
+    id: 'fin-4',
+    title: 'AI Tools For Personal Finance 2026: Optimize Your Wealth',
+    excerpt: "Discover how to optimize your personal finance in 2026 with the top 5 AI tools. Learn about automated budgeting, smart investments, and financial planning platforms...",
+    image: 'https://www.financereport.online/articles/image/ai_finance_2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/ai-tools-for-personal-finance-2026.html'
+  },
+  {
+    id: 'fin-5',
+    title: 'Financial Impact of the Viva Energy Geelong Refinery Fire',
+    excerpt: "Explore the economic fallout from the recent Viva Energy Geelong refinery fire. Learn how the geelong oil refinery incident impacts ASX trading, insurance, and national fuel costs...",
+    image: 'https://www.financereport.online/articles/image/viva_geelong_fire.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/viva-energy-geelong-oil-refinery-fire.html'
+  },
+  // ...Array.from({ length: 5 }, (_, i) => ({
+  //   id: `tech-${i + 1}`,
+  //   title: `Future Tech ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'Tech',
+  //   url: 'https://www.techreport.online/'
+  // })),
+  // ...Array.from({ length: 5 }, (_, i) => ({
+  //   id: `life-${i + 1}`,
+  //   title: `Balanced Life ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'EOD Lifestyle',
+  //   url: 'https://www.eodreport.online/'
+  // })),
+  // ...Array.from({ length: 5 }, (_, i) => ({
+  //   id: `cric-${i + 1}`,
+  //   title: `Cricket Highlights ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'Cricket',
+  //   url: 'https://www.cricketreport.online/'
+  // })),
+  // ...Array.from({ length: 5 }, (_, i) => ({
+  //   id: `foot-${i + 1}`,
+  //   title: `Football World ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'Football',
+  //   url: 'https://www.footballreport.online/'
+  // })),
+  // ...Array.from({ length: 5 }, (_, i) => ({
+  //   id: `race-${i + 1}`,
+  //   title: `Racing Series ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'Race',
+  //   url: 'https://www.racenews.online/'
+  // })),
+  ...Array.from({ length: 2 }, (_, i) => ({
     id: `golf-${i + 1}`,
     title: `Golf Greens ${i + 1}`,
     excerpt: 'Coming soon...',
