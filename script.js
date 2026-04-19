@@ -1,6 +1,14 @@
 const ARTICLE_DATA = [
   // TinyBigTalks (11 Real Articles)
   {
+    id: 'tbt-8',
+    title: "Lakers Stun Rockets in Playoff Opener: Luke Kennard & LeBron James Lead Upset",
+    excerpt: "The Los Angeles Lakers delivered a massive 107-98 upset against the Houston Rockets in Game 1 of the 2026 NBA Playoffs, fueled by heroic performances from Luke Kennard and LeBron James.",
+    image: 'articles/image/lakers_rockets_playoffs.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/lakers-rockets-playoffs-upset-2026.html'
+  },
+  {
     id: 'tbt-7',
     title: "RCB Director Mo Bobat Delivers 'Honest Review' After Delhi Capitals Defeat",
     excerpt: "Discover the complete match summary of RCB vs DC IPL 2026. Read Mo Bobat's honest review on the Royal Challengers Bengaluru defeat against Delhi Capitals.",
