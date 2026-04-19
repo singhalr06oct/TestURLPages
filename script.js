@@ -1,6 +1,14 @@
 const ARTICLE_DATA = [
   // TinyBigTalks (11 Real Articles)
   {
+    id: 'tbt-7',
+    title: "RCB Director Mo Bobat Delivers 'Honest Review' After Delhi Capitals Defeat",
+    excerpt: "Discover the complete match summary of RCB vs DC IPL 2026. Read Mo Bobat's honest review on the Royal Challengers Bengaluru defeat against Delhi Capitals.",
+    image: 'articles/image/rcb_dc_match_1776584104207.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/rcb-mo-bobat-review-delhi-capitals-ipl-2026.html'
+  },
+  {
     id: 'tbt-4',
     title: 'Peter Magyar Wins Hungarian Parliamentary Election 2026 Results',
     excerpt: "Peter Magyar and the Tisza Party achieve a landslide victory in the 2026 Hungarian parliamentary election, ending Viktor Orbán's 16-year rule with a record voter turnout..",
