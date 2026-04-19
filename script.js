@@ -88,7 +88,7 @@ const ARTICLE_DATA = [
     image: 'https://www.financereport.online/articles/image/viva_geelong_fire.webp',
     category: 'Finance',
     url: 'https://www.financereport.online/articles/viva-energy-geelong-oil-refinery-fire.html'
-  },
+  }
   // ...Array.from({ length: 5 }, (_, i) => ({
   //   id: `tech-${i + 1}`,
   //   title: `Future Tech ${i + 1}`,
@@ -129,14 +129,14 @@ const ARTICLE_DATA = [
   //   category: 'Race',
   //   url: 'https://www.racenews.online/'
   // })),
-  ...Array.from({ length: 2 }, (_, i) => ({
-    id: `golf-${i + 1}`,
-    title: `Golf Greens ${i + 1}`,
-    excerpt: 'Coming soon...',
-    image: 'assets/blog-default.png',
-    category: 'Golf',
-    url: 'https://www.golfreport.online/'
-  }))
+  // ...Array.from({ length: 2 }, (_, i) => ({
+  //   id: `golf-${i + 1}`,
+  //   title: `Golf Greens ${i + 1}`,
+  //   excerpt: 'Coming soon...',
+  //   image: 'assets/blog-default.png',
+  //   category: 'Golf',
+  //   url: 'https://www.golfreport.online/'
+  // }))
 ];
 
 function renderArticles(articles, containerId = 'search-grid') {
