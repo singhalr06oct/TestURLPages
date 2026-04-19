@@ -1,6 +1,13 @@
 const ARTICLE_DATA = [
   // TinyBigTalks (11 Real Articles)
   {
+    id: 'tbt-9',
+    title: "Justin Bieber Coachella 2026: History-Making Set with Tems, Wizkid, and Hailey's Support",
+    excerpt: "Justin Bieber shocked the huge Coachella 2026 crowd with an insane history-making set featuring Wizkid and Tems, all while Hailey Bieber showed unwavering support online and from the crowd.",
+    image: 'articles/image/justin_coachella_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/justin-bieber-coachella-set-2026.html'
+  },
     id: 'tbt-8',
     title: "Lakers Stun Rockets in Playoff Opener: Luke Kennard & LeBron James Lead Upset",
     excerpt: "The Los Angeles Lakers delivered a massive 107-98 upset against the Houston Rockets in Game 1 of the 2026 NBA Playoffs, fueled by heroic performances from Luke Kennard and LeBron James.",
