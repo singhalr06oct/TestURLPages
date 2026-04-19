@@ -36,10 +36,10 @@
         translateContainer.appendChild(label);
         translateContainer.appendChild(translateDiv);
 
-        const mainContainer = document.querySelector('main.container') || 
-                            document.querySelector('.article-main') || 
-                            document.querySelector('.page-content') ||
-                            document.querySelector('main');
+        const mainContainer = document.querySelector('main.container') ||
+            document.querySelector('.article-main') ||
+            document.querySelector('.page-content') ||
+            document.querySelector('main');
         const header = document.getElementById('site-header') || document.querySelector('header');
 
         if (mainContainer) {
@@ -54,7 +54,7 @@
         window.googleTranslateElementInit = function () {
             new google.translate.TranslateElement({
                 pageLanguage: 'en',
-                includedLanguages: 'en,es,fr,de,pl,zh-CN,hi,pt,ru,ja,ar,bn,ur,ko',
+                includedLanguages: 'en,es,fr,de,pl,zh-CN,hi,pt,ru,ja,ar,bn,ur,ko,pa,mr,ta,te,kn,gu,id,vi,th,nl,it,sv,no,da,hu,el,tr',
                 layout: google.translate.TranslateElement.InlineLayout.SIMPLE
             }, 'google_translate_element');
         };
