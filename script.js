@@ -20,9 +20,9 @@ const ARTICLE_DATA = [
     id: 'tbt-5',
     title: 'Polish Tax Office Enters Smartphones: The e-Urząd Skarbowy Revolution',
     excerpt: "Discover the features of Poland's e-Urząd Skarbowy mobile app. With the tax office now on their smartphones, Poles can file taxes, receive letters, and pay securely via BLIK 24/7...",
-    image: 'https://www.tinybigtalks.online/articles/image/polish_tax_office_app.webp',
+    image: 'https://www.financereport.online/articles/image/polish_tax_office_app.webp',
     category: 'TinyBigTalks',
-    url: 'https://www.tinybigtalks.online/articles/e-urzad-skarbowy-app-poland.html'
+    url: 'https://www.financereport.online/articles/e-urzad-skarbowy-app-poland.html'
   },
   {
     id: 'tbt-2',
