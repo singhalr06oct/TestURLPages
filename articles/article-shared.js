@@ -18,36 +18,8 @@
                     <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
                 </div>
                 <div>
-                    <!-- Start Banner Addsterra TAG -->
-                    <script>
-                    atOptions = {
-                        'key' : '6690eff882cbaf9cd9954f2407e29807',
-                        'format' : 'iframe',
-                        'height' : 250,
-                        'width' : 300,
-                        'params' : {}
-                    };
-                    </script>
-                    <script src="https://www.highperformanceformat.com/6690eff882cbaf9cd9954f2407e29807/invoke.js"></script>
-                    <!-- End Banner Addsterra TAG -->
-                </div>
-                <div>
                     <!-- MondiAd 300250 -->
                     <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
-                </div>
-                <div>
-                    <!-- Start Banner Addsterra TAG -->
-                    <script>
-                    atOptions = {
-                        'key' : '6690eff882cbaf9cd9954f2407e29807',
-                        'format' : 'iframe',
-                        'height' : 250,
-                        'width' : 300,
-                        'params' : {}
-                    };
-                    </script>
-                    <script src="https://www.highperformanceformat.com/6690eff882cbaf9cd9954f2407e29807/invoke.js"></script>
-                    <!-- End Banner Addsterra TAG -->
                 </div>
             </div>
 
