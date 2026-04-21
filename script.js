@@ -1,10 +1,18 @@
 const ARTICLE_DATA = [
   {
+    id: 'timberwolves-vs-nuggets-nba-game-2-2026',
+    title: "Timberwolves vs Nuggets Game 2: Minnesota Rallies from 19 Down to Even Series",
+    excerpt: "The Timberwolves overcame a 19-point hole to defeat the Nuggets 119-114, evening the NBA Western Conference series at 1-1.",
+    image: 'articles/image/timberwolves_vs_nuggets_2026.png',
+    category: 'TinyBigTalks',
+    url: 'articles/timberwolves-vs-nuggets-nba-playoffs-game-2-2026.html'
+  },
+  {
     id: 'mi-gt-ipl-2026-tilak',
     title: "MI vs GT IPL 2026: Tilak Varma's Century Powers Mumbai to 99-Run Victory",
     excerpt: "Tilak Varma smashed a maiden 101* while Ashwani Kumar took a four-wicket haul as Mumbai Indians crushed Gujarat Titans in Ahmedabad.",
     image: 'articles/image/mi_vs_gt_2026.png',
-    category: 'Cricket',
+    category: 'TinyBigTalks',
     url: 'articles/mi-vs-gt-ipl-2026-scorecard-tilak-varma.html'
   },
   // TinyBigTalks (12 Real Articles)
