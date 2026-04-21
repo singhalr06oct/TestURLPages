@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'crystal-palace-vs-west-ham-pl-draw-2026',
+    title: "Crystal Palace vs West Ham: Goalless Draw Confirms Wolves Relegation",
+    excerpt: "West Ham claimed a vital point at Selhurst Park to move two points clear of the drop, a result that confirmed Wolves' relegation from the Premier League.",
+    image: 'articles/image/crystal_palace_vs_west_ham_2026.png',
+    category: 'TinyBigTalks',
+    url: 'articles/crystal-palace-vs-west-ham-premier-league-draw-2026.html'
+  },
+  {
     id: 'timberwolves-vs-nuggets-nba-game-2-2026',
     title: "Timberwolves vs Nuggets Game 2: Minnesota Rallies from 19 Down to Even Series",
     excerpt: "The Timberwolves overcame a 19-point hole to defeat the Nuggets 119-114, evening the NBA Western Conference series at 1-1.",
