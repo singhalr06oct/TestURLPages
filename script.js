@@ -1,4 +1,12 @@
 const ARTICLE_DATA = [
+  {
+    id: 'mi-gt-ipl-2026-tilak',
+    title: "MI vs GT IPL 2026: Tilak Varma's Century Powers Mumbai to 99-Run Victory",
+    excerpt: "Tilak Varma smashed a maiden 101* while Ashwani Kumar took a four-wicket haul as Mumbai Indians crushed Gujarat Titans in Ahmedabad.",
+    image: 'articles/image/mi_vs_gt_2026.png',
+    category: 'Cricket',
+    url: 'articles/mi-vs-gt-ipl-2026-scorecard-tilak-varma.html'
+  },
   // TinyBigTalks (12 Real Articles)
   {
     id: 'tbt-11',
