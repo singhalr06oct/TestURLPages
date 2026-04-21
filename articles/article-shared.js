@@ -13,15 +13,11 @@
         </div>
 
         <div class="ads-wrapper">
-                <div>
-                    <!-- MondiAd 300250 -->
-                    <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
-                </div>
-                <div>
-                    <!-- MondiAd 300250 -->
-                    <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
-                </div>
+            <div>
+                <!-- MondiAd 300250 -->
+                <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
             </div>
+        </div>
 
         <div class="comments-section">
             <h3>Leave your thoughts</h3>
@@ -32,6 +28,12 @@
             </form>
             <div id="comments-display" class="comments-list">
                 <div class="no-comments">Loading comments...</div>
+            </div>
+        </div>
+        <div class="ads-wrapper">
+            <div>
+                <!-- MondiAd 300250 -->
+                <div data-mndbanid="edbf06fa-18c8-43e0-958a-d12059ab16ce"></div>
             </div>
         </div>
     </section>
