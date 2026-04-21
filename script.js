@@ -1,6 +1,14 @@
 const ARTICLE_DATA = [
   // TinyBigTalks (12 Real Articles)
   {
+    id: 'tbt-11',
+    title: "Japan Earthquake and Tsunami Warning 2026: High Alert for 'Huge' Quake",
+    excerpt: "Japan is on high alert for quakes causing even stronger shaking following a 7.7 magnitude strike off Iwate. Tsunami warnings and mass evacuations in place.",
+    image: 'articles/image/japan_earthquake_2026.png',
+    category: 'TinyBigTalks',
+    url: 'articles/japan-earthquake-tsunami-warning-2026.html'
+  },
+  {
     id: 'tbt-10',
     title: "Carey Mulligan and Oscar Isaac Bring Chaos to Beef Season 2",
     excerpt: "Carey Mulligan and Oscar Isaac headline an explosive, chaotic new anthology story in Netflix's Beef Season 2. Read the review of the surreal episode 4.",

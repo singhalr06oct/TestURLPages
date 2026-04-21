@@ -114,4 +114,10 @@
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
+  <url>
+    <loc>https://www.tinybigtalks.online/articles/japan-earthquake-tsunami-warning-2026.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
 </urlset>
