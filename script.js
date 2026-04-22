@@ -3,7 +3,7 @@ const ARTICLE_DATA = [
     id: 'crystal-palace-vs-west-ham-pl-draw-2026',
     title: "Crystal Palace vs West Ham: Goalless Draw Confirms Wolves Relegation",
     excerpt: "West Ham claimed a vital point at Selhurst Park to move two points clear of the drop, a result that confirmed Wolves' relegation from the Premier League.",
-    image: 'articles/image/crystal_palace_vs_west_ham_2026.png',
+    image: 'articles/image/crystal_palace_vs_west_ham_2026.webp',
     category: 'TinyBigTalks',
     url: 'articles/crystal-palace-vs-west-ham-premier-league-draw-2026.html'
   },
@@ -11,7 +11,7 @@ const ARTICLE_DATA = [
     id: 'timberwolves-vs-nuggets-nba-game-2-2026',
     title: "Timberwolves vs Nuggets Game 2: Minnesota Rallies from 19 Down to Even Series",
     excerpt: "The Timberwolves overcame a 19-point hole to defeat the Nuggets 119-114, evening the NBA Western Conference series at 1-1.",
-    image: 'articles/image/timberwolves_vs_nuggets_2026.png',
+    image: 'articles/image/timberwolves_vs_nuggets_2026.webp',
     category: 'TinyBigTalks',
     url: 'articles/timberwolves-vs-nuggets-nba-playoffs-game-2-2026.html'
   },
@@ -19,7 +19,7 @@ const ARTICLE_DATA = [
     id: 'mi-gt-ipl-2026-tilak',
     title: "MI vs GT IPL 2026: Tilak Varma's Century Powers Mumbai to 99-Run Victory",
     excerpt: "Tilak Varma smashed a maiden 101* while Ashwani Kumar took a four-wicket haul as Mumbai Indians crushed Gujarat Titans in Ahmedabad.",
-    image: 'articles/image/mi_vs_gt_2026.png',
+    image: 'articles/image/mi_vs_gt_2026.webp',
     category: 'TinyBigTalks',
     url: 'articles/mi-vs-gt-ipl-2026-scorecard-tilak-varma.html'
   },
@@ -28,7 +28,7 @@ const ARTICLE_DATA = [
     id: 'tbt-11',
     title: "Japan Earthquake and Tsunami Warning 2026: High Alert for 'Huge' Quake",
     excerpt: "Japan is on high alert for quakes causing even stronger shaking following a 7.7 magnitude strike off Iwate. Tsunami warnings and mass evacuations in place.",
-    image: 'articles/image/japan_earthquake_2026.png',
+    image: 'articles/image/japan_earthquake_2026.webp',
     category: 'TinyBigTalks',
     url: 'articles/japan-earthquake-tsunami-warning-2026.html'
   },
