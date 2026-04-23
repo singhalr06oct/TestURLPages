@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'zillow-lowers-home-price-outlook-2026',
+    title: "Zillow Lowers Home Price Outlook: 2026 US Housing Market Update",
+    excerpt: "Zillow has revised its home prices forecast USA downward across 400+ housing markets. Explore the US housing market trends 2026 and property values slowdown.",
+    image: 'articles/image/zillow_housing_market_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/zillow-lowers-home-price-outlook-2026.html'
+  },
+  {
     id: 'crystal-palace-vs-west-ham-pl-draw-2026',
     title: "Crystal Palace vs West Ham: Goalless Draw Confirms Wolves Relegation",
     excerpt: "West Ham claimed a vital point at Selhurst Park to move two points clear of the drop, a result that confirmed Wolves' relegation from the Premier League.",
