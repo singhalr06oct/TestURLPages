@@ -31,7 +31,6 @@ const ARTICLE_DATA = [
     category: 'TinyBigTalks',
     url: 'articles/mi-vs-gt-ipl-2026-scorecard-tilak-varma.html'
   },
-  // TinyBigTalks (12 Real Articles)
   {
     id: 'tbt-11',
     title: "Japan Earthquake and Tsunami Warning 2026: High Alert for 'Huge' Quake",
