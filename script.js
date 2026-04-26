@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'trump-whcd-shooting-2026',
+    title: "Donald Trump Evacuated After Shots Fired at WHCD 2026: Who Is Cole Thomas Allen?",
+    excerpt: "Breaking news: Donald Trump evacuated after shots fired at White House Correspondents' Dinner 2026. What happened? Who is Cole Thomas Allen? Full details of the WHCD shooting.",
+    image: 'articles/image/trump_whcd_shooting_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/trump-whcd-shooting-2026.html'
+  },
+  {
     id: 'zillow-lowers-home-price-outlook-2026',
     title: "Zillow Lowers Home Price Outlook: 2026 US Housing Market Update",
     excerpt: "Zillow has revised its home prices forecast USA downward across 400+ housing markets. Explore the US housing market trends 2026 and property values slowdown.",
