@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>TinyBigTalks</title>
-  <link>https://www.tinybigtalks.online/</link>
+  <link>https://www.tinybigtalks.online/index.html</link>
   <description>Insightful Blog on Finance, Tech, LifeStyle, Sports and more</description>
   <language>en-us</language>
   <atom:link href="https://www.tinybigtalks.online/rss.xml" rel="self" type="application/rss+xml" />
