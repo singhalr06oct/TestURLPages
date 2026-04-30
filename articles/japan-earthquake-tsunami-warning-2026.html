@@ -327,74 +327,8 @@
             <div class="category-label">Recommended for You</div>
             <div class="category-line"></div>
         </div>
-        <div class="articles-grid grid-5-cols">
-            <a href="https://www.tinybigtalks.online/articles/justin-bieber-coachella-set-2026.html">
-                <article class="article-card">
-                    <img src="https://www.tinybigtalks.online/articles/image/justin_coachella_2026.webp"
-                        alt="Justin Bieber Coachella 2026" class="article-image" loading="lazy" width="300"
-                        height="170">
-                    <div class="article-content">
-                        <h2 class="article-title">Justin Bieber Coachella 2026: History-Making Set with Tems, Wizkid,
-                            and Hailey's Support</h2>
-                        <p class="article-excerpt">Justin Bieber delivered an unforgettable, history-making set at
-                            Coachella 2026 featuring Tems and Wizkid. Fans were thrilled as Hailey Bieber hyped up the
-                            crowd.</p>
-                        <span class="read-more">[Read more]</span>
-                    </div>
-                </article>
-            </a>
-            <a href="https://www.tinybigtalks.online/articles/beef-season-2-carey-mulligan-oscar-isaac-2026.html">
-                <article class="article-card">
-                    <img src="https://www.tinybigtalks.online/articles/image/beef_season_2_chaos_2026.webp"
-                        alt="Beef Season 2 Carey Mulligan Oscar Isaac" class="article-image" loading="lazy" width="300"
-                        height="170">
-                    <div class="article-content">
-                        <h2 class="article-title">Carey Mulligan and Oscar Isaac Bring Chaos to Beef Season 2</h2>
-                        <p class="article-excerpt">Carey Mulligan and Oscar Isaac headline an explosive, chaotic new
-                            anthology story in Netflix's Beef Season 2.</p>
-                        <span class="read-more">[Read more]</span>
-                    </div>
-                </article>
-            </a>
-            <a href="https://www.tinybigtalks.online/articles/rory-mcilroy-masters-2026-winner.html">
-                <article class="article-card">
-                    <img src="https://www.tinybigtalks.online/articles/image/rory_mcilroy_masters_2026_win.webp"
-                        alt="Rory McIlroy Masters 2026 Winner" class="article-image" loading="lazy" width="300"
-                        height="170">
-                    <div class="article-content">
-                        <h2 class="article-title">Rory McIlroy Wins Masters 2026: Back-to-Back Green Jacket &amp; $4.5M
-                            Prize</h2>
-                        <p class="article-excerpt">McIlroy secures his sixth major title and second consecutive Masters
-                            victory at Augusta National.</p>
-                        <span class="read-more">[Read more]</span>
-                    </div>
-                </article>
-            </a>
-            <a href="https://www.tinybigtalks.online/articles/euphoria-season-3-premiere-how-to-watch.html">
-                <article class="article-card">
-                    <img src="https://www.tinybigtalks.online/articles/image/euphoria-season-3.webp"
-                        alt="Euphoria Season 3" class="article-image" loading="lazy" width="300" height="170">
-                    <div class="article-content">
-                        <h2 class="article-title">Euphoria Season 3 Premiere: Date &amp; How to Watch</h2>
-                        <p class="article-excerpt">Everything you need to know about the Euphoria Season 3 release date,
-                            episode schedule, and stream info.</p>
-                        <span class="read-more">[Read more]</span>
-                    </div>
-                </article>
-            </a>
-            <a href="https://www.tinybigtalks.online/articles/barcelona-atletico-madrid-ucl-quarter-final-2026.html">
-                <article class="article-card">
-                    <img src="https://www.tinybigtalks.online/articles/image/barcelona_atletico_ucl_2026.webp"
-                        alt="Barcelona vs Atletico Madrid Champions League 2026" class="article-image" loading="lazy"
-                        width="300" height="170">
-                    <div class="article-content">
-                        <h2 class="article-title">Barcelona vs Atletico Madrid Champions League 2026</h2>
-                        <p class="article-excerpt">Barcelona crash out of the UEFA Champions League 2026 quarter-finals
-                            as Atletico Madrid advance 3-2 on aggregate.</p>
-                        <span class="read-more">[Read more]</span>
-                    </div>
-                </article>
-            </a>
+        <div class="articles-grid grid-5-cols" id="recommended-articles-grid">
+            <!-- Random articles will be injected here via JS -->
         </div>
     </section>
 
@@ -407,6 +341,17 @@
         const CURRENT_ARTICLE_ID = 'japan-earthquake-4995959-warning-2026';
     </script>
     <script src="article-shared.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof ARTICLE_DATA !== 'undefined' && typeof renderArticles === 'function') {
+                const currentUrlPath = window.location.pathname.split('/').pop();
+                const availableArticles = ARTICLE_DATA.filter(a => !a.url.includes(currentUrlPath));
+                const shuffled = availableArticles.sort(() => 0.5 - Math.random());
+                const selected = shuffled.slice(0, 5);
+                renderArticles(selected, 'recommended-articles-grid');
+            }
+        });
+    </script>
 </body>
 
 </html>
