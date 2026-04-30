@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'supreme-court-voting-rights-ruling-2026',
+    title: "Supreme Court Voting Rights Ruling 2026: Global Impact & Analysis",
+    excerpt: "The Supreme Court voting rights ruling 2026 has all but thrown away the Voting Rights Act of 1965. Explore the global reaction and impact on minority voting rights.",
+    image: 'articles/image/supreme_court_voting_rights_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/supreme-court-voting-rights-ruling-2026.html'
+  },
+  {
     id: 'trump-whcd-shooting-2026',
     title: "Donald Trump Evacuated After Shots Fired at WHCD 2026: Who Is Cole Thomas Allen?",
     excerpt: "Breaking news: Donald Trump evacuated after shots fired at White House Correspondents' Dinner 2026. What happened? Who is Cole Thomas Allen? Full details of the WHCD shooting.",
