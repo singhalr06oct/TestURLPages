@@ -41,7 +41,7 @@
     <footer>
         <div class="container">
             <nav class="footer-nav">
-                <a href="https://www.financereport.online/">Finance</a>
+                <a href="https://www.financereport.online/index.html">Finance</a>
                 <a href="https://www.techreport.online/">Tech</a>
                 <a href="https://www.eodreport.online/">EOD Lifestyle</a>
                 <a href="https://www.cricketreport.online/">Cricket</a>
