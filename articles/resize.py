@@ -7,7 +7,7 @@ out_path = r'c:\Users\rohit\.gemini\antigravity\playground\tensor-granule\TestUR
 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
 img = Image.open(img_path)
-img = img.resize((800, 450), Image.Resampling.LANCZOS)
+img = img.resize((1200, 1200), Image.Resampling.LANCZOS)
 img = img.convert("RGBA")
 overlay = Image.new("RGBA", img.size, (0, 0, 0, 0))
 draw = ImageDraw.Draw(overlay)
