@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'david-allan-coe-death-obituary-2026',
+    title: "David Allan Coe Death 2026: Outlaw Country Legend Dies at 86",
+    excerpt: "Outlaw country legend David Allan Coe has died at 86. Read the full country music legend obituary, cause of death details, and his global legacy.",
+    image: 'articles/image/david_allan_coe_death_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'articles/david-allan-coe-death-obituary-2026.html'
+  },
+  {
     id: 'supreme-court-voting-rights-ruling-2026',
     title: "Supreme Court Voting Rights Ruling 2026: Global Impact & Analysis",
     excerpt: "The Supreme Court voting rights ruling 2026 has all but thrown away the Voting Rights Act of 1965. Explore the global reaction and impact on minority voting rights.",
