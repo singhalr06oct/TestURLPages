@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'kentucky-derby-2026-live-odds-post-time-horses',
+    title: "Kentucky Derby 2026: Horses, Odds, Post Time, and How to Watch Live",
+    excerpt: "Get all the details for the Kentucky Derby 2026. Find the updated horses list, odds today, post time, and how to watch the Derby live from Churchill Downs.",
+    image: 'https://www.tinybigtalks.online/articles/image/kentucky_derby_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/kentucky-derby-2026-live-odds-post-time-horses.html'
+  },
+  {
     id: 'david-allan-coe-death-obituary-2026',
     title: "David Allan Coe Death 2026: Outlaw Country Legend Dies at 86",
     excerpt: "Outlaw country legend David Allan Coe has died at 86. Read the full country music legend obituary, cause of death details, and his global legacy.",
