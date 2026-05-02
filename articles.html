@@ -13,6 +13,111 @@
     <link rel="icon" type="image/png" href="favicon.png">
     <meta name="description"
         content="Explore all TinyBigTalks articles piece right here, where money news meets tech shifts alongside life tips and sports highlights. Fresh perspectives pop up next to viral debates plus hands-on advice meant to fit how you live. Ideas flow daily, shaped by what matters most when choices stack up each morning.">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:title" content="TinyBigTalks | Explore All Articles in One Place">
+    <meta property="og:description"
+        content="Dive into the full archive of TinyBigTalks. From finance and tech to sports and lifestyle, find every insight we've published in one place.">
+    <meta property="og:image" content="https://www.tinybigtalks.online/assets/logo.png">
+    <meta property="og:url" content="https://www.tinybigtalks.online/articles.html">
+    <meta property="og:type" content="website">
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "TinyBigTalks Articles",
+      "description": "A comprehensive list of articles covering Finance, Tech, Sports, and Lifestyle.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www.tinybigtalks.online/articles/david-allan-coe-death-obituary-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www.tinybigtalks.online/articles/supreme-court-voting-rights-ruling-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www.tinybigtalks.online/articles/trump-whcd-shooting-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www.tinybigtalks.online/articles/zillow-lowers-home-price-outlook-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www.tinybigtalks.online/articles/crystal-palace-vs-west-ham-premier-league-draw-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www.tinybigtalks.online/articles/timberwolves-vs-nuggets-nba-playoffs-game-2-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www.tinybigtalks.online/articles/mi-vs-gt-ipl-2026-scorecard-tilak-varma.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://www.tinybigtalks.online/articles/japan-earthquake-tsunami-warning-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://www.tinybigtalks.online/articles/beef-season-2-carey-mulligan-oscar-isaac-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://www.tinybigtalks.online/articles/justin-bieber-coachella-set-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://www.tinybigtalks.online/articles/lakers-rockets-playoffs-upset-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://www.tinybigtalks.online/articles/rcb-mo-bobat-review-delhi-capitals-ipl-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://www.tinybigtalks.online/articles/peter-magyar-hungarian-election-2026.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "url": "https://www.tinybigtalks.online/articles/viva-energy-geelong-oil-refinery-fire.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "url": "https://www.tinybigtalks.online/articles/euphoria-season-3-premiere-how-to-watch.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "url": "https://www.tinybigtalks.online/articles/rory-mcilroy-masters-2026-winner.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "url": "https://www.tinybigtalks.online/articles/barcelona-atletico-madrid-ucl-quarter-final-2026.html"
+        }
+      ]
+    }
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -120,6 +225,17 @@
     </header>
 
     <main class="container">
+        <!-- Hero Section -->
+        <section class="hero-section"
+            style="padding: 40px; text-align: center; background: linear-gradient(135deg, rgba(0, 143, 164, 0.05) 0%, rgba(0, 51, 78, 0.05) 100%); border-radius: 12px; margin: 30px 0 50px; border: 1px solid rgba(0, 143, 164, 0.1);">
+            <h1 style="font-size: 36px; color: var(--secondary); margin-bottom: 15px; font-weight: 800;">Explore Our Full
+                Article Library</h1>
+            <p style="max-width: 850px; margin: 0 auto 20px; font-size: 18px; color: var(--text-muted); line-height: 1.6;">
+                Welcome to the complete archive of TinyBigTalks. Here you can find every insight, analysis, and story
+                we've published, ranging from the latest financial audits and tech breakthroughs to in-depth sports
+                coverage and lifestyle guides.
+            </p>
+        </section>
 
         <!-- Search Results Grid (Initially Hidden) -->
         <div id="search-results-section" style="display: none;">
@@ -132,12 +248,57 @@
 
         <div id="articles-feed-section">
             <div class="category-header" style="margin-top: 40px;">
-                <span class="category-label">All Articles</span>
+                <h2 class="category-label">Latest Insights</h2>
                 <div class="category-line"></div>
             </div>
 
             <div id="articles-feed" class="articles-vertical-feed">
-                <!-- Populated by JS -->
+                <!-- Pre-rendered for bots (replaced by JS) -->
+                <article class="article-card-vertical"
+                    onclick="window.location.href='https://www.tinybigtalks.online/articles/david-allan-coe-death-obituary-2026.html'">
+                    <img src="https://www.tinybigtalks.online/articles/image/david_allan_coe_death_2026.webp"
+                        alt="David Allan Coe Death 2026" class="article-image" width="300" height="200">
+                    <div class="article-content">
+                        <h2 class="article-title" style="font-size: 24px; margin-bottom: 15px;">David Allan Coe Death
+                            2026: Outlaw Country Legend Dies at 86</h2>
+                        <p class="article-excerpt"
+                            style="-webkit-line-clamp: 4; line-clamp: 4; font-size: 15px; margin-bottom: 20px;">Outlaw
+                            country legend David Allan Coe has died at 86. Read the full country music legend obituary,
+                            cause of death details, and his global legacy.</p>
+                        <span class="read-more" style="font-size: 14px;">[Read more]</span>
+                    </div>
+                </article>
+
+                <article class="article-card-vertical"
+                    onclick="window.location.href='https://www.tinybigtalks.online/articles/supreme-court-voting-rights-ruling-2026.html'">
+                    <img src="https://www.tinybigtalks.online/articles/image/supreme_court_voting_rights_2026.webp"
+                        alt="Supreme Court Voting Rights Ruling 2026" class="article-image" width="300" height="200">
+                    <div class="article-content">
+                        <h2 class="article-title" style="font-size: 24px; margin-bottom: 15px;">Supreme Court Voting
+                            Rights Ruling 2026: Global Impact & Analysis</h2>
+                        <p class="article-excerpt"
+                            style="-webkit-line-clamp: 4; line-clamp: 4; font-size: 15px; margin-bottom: 20px;">The
+                            Supreme Court voting rights ruling 2026 has all but thrown away the Voting Rights Act of
+                            1965. Explore the global reaction and impact on minority voting rights.</p>
+                        <span class="read-more" style="font-size: 14px;">[Read more]</span>
+                    </div>
+                </article>
+
+                <article class="article-card-vertical"
+                    onclick="window.location.href='https://www.tinybigtalks.online/articles/trump-whcd-shooting-2026.html'">
+                    <img src="https://www.tinybigtalks.online/articles/image/trump_whcd_shooting_2026.webp"
+                        alt="Donald Trump Evacuated After Shots Fired at WHCD 2026" class="article-image" width="300"
+                        height="200">
+                    <div class="article-content">
+                        <h2 class="article-title" style="font-size: 24px; margin-bottom: 15px;">Donald Trump Evacuated
+                            After Shots Fired at WHCD 2026: Who Is Cole Thomas Allen?</h2>
+                        <p class="article-excerpt"
+                            style="-webkit-line-clamp: 4; line-clamp: 4; font-size: 15px; margin-bottom: 20px;">Breaking
+                            news: Donald Trump evacuated after shots fired at White House Correspondents' Dinner 2026.
+                            What happened? Who is Cole Thomas Allen? Full details of the WHCD shooting.</p>
+                        <span class="read-more" style="font-size: 14px;">[Read more]</span>
+                    </div>
+                </article>
             </div>
         </div>
     </main>
