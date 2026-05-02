@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'alex-zanardi-death-news-2026',
+    title: "Motorsport Legend Alex Zanardi Dies at 59: A Tribute to His Legacy",
+    excerpt: "Read the heart-touching tribute to Alex Zanardi. Former F1 driver and Paralympic champion Alex Zanardi dies at 59. Explore his career, comeback, and inspiring legacy.",
+    image: 'https://www.tinybigtalks.online/articles/image/alex_zanardi_tribute.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/alex-zanardi-death-news-2026.html'
+  },
+  {
     id: 'kentucky-derby-2026-live-odds-post-time-horses',
     title: "Kentucky Derby 2026: Horses, Odds, Post Time, and How to Watch Live",
     excerpt: "Get all the details for the Kentucky Derby 2026. Find the updated horses list, odds today, post time, and how to watch the Derby live from Churchill Downs.",
