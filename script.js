@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'breeze-airways-time100-2026',
+    title: "Breeze Airways TIME100 2026: Fast-Growing Airline Achieves Global Success",
+    excerpt: "Read the latest Breeze Airlines news today as the low cost airline success story lands them on the TIME100 Most Influential Companies list. Discover their expansion and industry impact.",
+    image: 'https://www.tinybigtalks.online/articles/image/breeze_airways_time100_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/breeze-airways-time100-2026.html'
+  },
+  {
     id: 'alex-zanardi-death-news-2026',
     title: "Motorsport Legend Alex Zanardi Dies at 59: A Tribute to His Legacy",
     excerpt: "Read the heart-touching tribute to Alex Zanardi. Former F1 driver and Paralympic champion Alex Zanardi dies at 59. Explore his career, comeback, and inspiring legacy.",
