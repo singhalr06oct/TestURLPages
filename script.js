@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'from-football-to-f1-global-sports-trends-2026',
+    title: "From Football to F1: The Biggest Global Sports Trends You Can’t Miss",
+    excerpt: "Explore the biggest global sports trends 2026. From football and F1 news today to the future of sports, get the latest sports trends worldwide.",
+    image: 'https://www.tinybigtalks.online/articles/image/football_f1_trends_2026.webp',
+    category: 'Sports',
+    url: 'https://www.tinybigtalks.online/articles/from-football-to-f1-global-sports-trends-2026.html'
+  },
+  {
     id: 'top-10-sports-stories-shaking-world-2026',
     title: "Top 10 Sports Stories Shaking the World Right Now (2026)",
     excerpt: "Dive into the top 10 sports stories shaking the world right now. From breaking sports news USA to global sports highlights 2026, stay updated.",
