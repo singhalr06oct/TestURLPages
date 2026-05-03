@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'top-10-sports-stories-shaking-world-2026',
+    title: "Top 10 Sports Stories Shaking the World Right Now (2026)",
+    excerpt: "Dive into the top 10 sports stories shaking the world right now. From breaking sports news USA to global sports highlights 2026, stay updated.",
+    image: 'https://www.tinybigtalks.online/articles/image/top_10_sports_stories_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/top-10-sports-stories-shaking-world-2026.html'
+  },
+  {
     id: 'minimalism-vs-luxury-lifestyle-2026',
     title: "Minimalism vs Luxury: Which Lifestyle Wins in 2026?",
     excerpt: "Explore the ultimate debate of minimalism vs luxury lifestyle 2026. Uncover global trends, simple living tips, and modern lifestyle choices.",
