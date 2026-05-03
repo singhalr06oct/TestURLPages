@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'minimalism-vs-luxury-lifestyle-2026',
+    title: "Minimalism vs Luxury: Which Lifestyle Wins in 2026?",
+    excerpt: "Explore the ultimate debate of minimalism vs luxury lifestyle 2026. Uncover global trends, simple living tips, and modern lifestyle choices.",
+    image: 'https://www.tinybigtalks.online/articles/image/minimalism_vs_luxury_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/minimalism-vs-luxury-lifestyle-2026.html'
+  },
+  {
     id: 'breeze-airways-time100-2026',
     title: "Breeze Airways TIME100 2026: Fast-Growing Airline Achieves Global Success",
     excerpt: "Read the latest Breeze Airlines news today as the low cost airline success story lands them on the TIME100 Most Influential Companies list. Discover their expansion and industry impact.",
