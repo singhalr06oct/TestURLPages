@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'hantavirus-outbreak-cruise-ship-mv-hondius-2026',
+    title: "Hantavirus Outbreak Cruise Ship: Passengers Dead on MV Hondius in Atlantic",
+    excerpt: "Three passengers have died after a suspected hantavirus outbreak on the cruise ship MV Hondius. Get the latest news on the cruise virus outbreak, Latam international impact, and hantavirus symptoms.",
+    image: 'https://www.tinybigtalks.online/articles/image/hantavirus_cruise_ship_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/hantavirus-outbreak-cruise-ship-mv-hondius-2026.html'
+  },
+  {
     id: 'from-football-to-f1-global-sports-trends-2026',
     title: "From Football to F1: The Biggest Global Sports Trends You Can’t Miss",
     excerpt: "Explore the biggest global sports trends 2026. From football and F1 news today to the future of sports, get the latest sports trends worldwide.",
