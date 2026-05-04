@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'rudy-giuliani-hospitalized-critical-condition-2026',
+    title: "Rudy Giuliani Hospitalized in Critical Condition: Latest News and Health Updates",
+    excerpt: "Former NYC Mayor Rudy Giuliani has been hospitalized in critical condition. Explore the latest news on Giuliani's health, why he is in the hospital, and international updates.",
+    image: 'https://www.tinybigtalks.online/articles/image/rudy_giuliani_hospitalized_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/rudy-giuliani-hospitalized-critical-condition-2026.html'
+  },
+  {
     id: 'hantavirus-outbreak-cruise-ship-mv-hondius-2026',
     title: "Hantavirus Outbreak Cruise Ship: Passengers Dead on MV Hondius in Atlantic",
     excerpt: "Three passengers have died after a suspected hantavirus outbreak on the cruise ship MV Hondius. Get the latest news on the cruise virus outbreak, Latam international impact, and hantavirus symptoms.",
