@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'aston-villa-vs-tottenham-live-score-lineups-stats-2026',
+    title: "Aston Villa vs Tottenham: Live Score, Lineups, and Match Predictions 2026",
+    excerpt: "Get the latest Aston Villa vs Tottenham live score updates, lineups, prediction, and where to watch. Find out all the stats and standings for this massive Premier League clash.",
+    image: 'https://www.tinybigtalks.online/articles/image/aston_villa_tottenham_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/aston-villa-vs-tottenham-live-score-lineups-stats-2026.html'
+  },
+  {
     id: 'rudy-giuliani-hospitalized-critical-condition-2026',
     title: "Rudy Giuliani Hospitalized in Critical Condition: Latest News and Health Updates",
     excerpt: "Former NYC Mayor Rudy Giuliani has been hospitalized in critical condition. Explore the latest news on Giuliani's health, why he is in the hospital, and international updates.",
