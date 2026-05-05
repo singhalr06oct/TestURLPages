@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'global-emergencies-war-drought-poverty-crisis-2026',
+    title: "Increasing Global Emergencies in 2026: The Intersection of War, Drought, and Poverty",
+    excerpt: "Explore why global emergencies like war zones, droughts, and poverty are increasing in 2026. A comprehensive look at the humanitarian crisis world news 2026 and its global impact.",
+    image: 'https://www.tinybigtalks.online/articles/image/global_emergencies_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/global-emergencies-war-drought-poverty-crisis-2026.html'
+  },
+  {
     id: 'why-weather-is-getting-more-dangerous-in-2026',
     title: "Why Weather Is Getting More Dangerous in 2026: Climate Crisis Explained",
     excerpt: "Explore why extreme weather is getting worse in 2026. From heatwaves in the USA to bushfires in Australia and flooding in the UK, find out how climate change is impacting global weather patterns.",
