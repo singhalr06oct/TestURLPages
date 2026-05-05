@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'why-weather-is-getting-more-dangerous-in-2026',
+    title: "Why Weather Is Getting More Dangerous in 2026: Climate Crisis Explained",
+    excerpt: "Explore why extreme weather is getting worse in 2026. From heatwaves in the USA to bushfires in Australia and flooding in the UK, find out how climate change is impacting global weather patterns.",
+    image: 'https://www.tinybigtalks.online/articles/image/weather_danger_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/why-weather-is-getting-more-dangerous-in-2026.html'
+  },
+  {
     id: 'aston-villa-vs-tottenham-live-score-lineups-stats-2026',
     title: "Aston Villa vs Tottenham: Live Score, Lineups, and Match Predictions 2026",
     excerpt: "Get the latest Aston Villa vs Tottenham live score updates, lineups, prediction, and where to watch. Find out all the stats and standings for this massive Premier League clash.",
