@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'hayden-panettiere-comes-out-bisexual-dating-women-2026',
+    title: "Hayden Panettiere Comes Out as Bisexual: No One Ever Encouraged Me to Be Myself",
+    excerpt: "Nashville and Scream star Hayden Panettiere has come out as bisexual in a powerful 2026 interview. Explore her LGBTQ journey, dating women, and personal reveal.",
+    image: 'https://www.tinybigtalks.online/articles/image/hayden_panettiere_bisexual_reveal_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/hayden-panettiere-comes-out-bisexual-dating-women-2026.html'
+  },
+  {
     id: 'ted-turner-dies-cnn-founder-legacy-2026',
     title: "Ted Turner Dies at 87: The Visionary Legacy of CNN's Founder (1938-2026)",
     excerpt: "Ted Turner, the legendary founder of CNN and media mogul, has passed away. Explore his life, legacy, net worth 2026, and his impact on global news and sports.",
