@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'ted-turner-dies-cnn-founder-legacy-2026',
+    title: "Ted Turner Dies at 87: The Visionary Legacy of CNN's Founder (1938-2026)",
+    excerpt: "Ted Turner, the legendary founder of CNN and media mogul, has passed away. Explore his life, legacy, net worth 2026, and his impact on global news and sports.",
+    image: 'https://www.tinybigtalks.online/articles/image/ted_turner_tribute_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/ted-turner-dies-cnn-founder-legacy-2026.html'
+  },
+  {
     id: 'global-emergencies-war-drought-poverty-crisis-2026',
     title: "Increasing Global Emergencies in 2026: The Intersection of War, Drought, and Poverty",
     excerpt: "Explore why global emergencies like war zones, droughts, and poverty are increasing in 2026. A comprehensive look at the humanitarian crisis world news 2026 and its global impact.",
