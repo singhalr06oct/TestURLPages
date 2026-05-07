@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'billie-eilish-nat-wolff-red-carpet-debut-concert-film-2026',
+    title: "Billie Eilish and Nat Wolff Make Stunning Red Carpet Debut at Hit Me Hard and Soft Premiere (2026)",
+    excerpt: "Billie Eilish and Nat Wolff officially debuted on the red carpet for her concert film premiere. Explore the latest news on their relationship, career updates, and global reaction.",
+    image: 'https://www.tinybigtalks.online/articles/image/billie_eilish_nat_wolff_debut_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/billie-eilish-nat-wolff-red-carpet-debut-concert-film-2026.html'
+  },
+  {
     id: 'hayden-panettiere-comes-out-bisexual-dating-women-2026',
     title: "Hayden Panettiere Comes Out as Bisexual: No One Ever Encouraged Me to Be Myself",
     excerpt: "Nashville and Scream star Hayden Panettiere has come out as bisexual in a powerful 2026 interview. Explore her LGBTQ journey, dating women, and personal reveal.",
