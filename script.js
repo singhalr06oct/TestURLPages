@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'canvas-hack-goes-viral-instructure-2026',
+    title: "Canvas Hack Goes Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "Canvas is trending after reports of a massive data breach affecting millions of users. Here’s everything we know so far, including the latest updates and public reactions.",
+    image: 'https://www.tinybigtalks.online/articles/image/canvas_hack_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/canvas-hack-goes-viral-instructure-2026.html'
+  },
+  {
     id: 'mississippi-tornado-damage-homes-destroyed-2026',
     title: "Tornadoes Tear Through Mississippi: 400 Homes Damaged and Multiple Injured (2026)",
     excerpt: "A devastating tornado outbreak in Mississippi has left roughly 400 homes damaged and at least 17 people injured. Explore the latest updates, damage reports, and rescue operations.",
