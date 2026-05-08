@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'mississippi-tornado-damage-homes-destroyed-2026',
+    title: "Tornadoes Tear Through Mississippi: 400 Homes Damaged and Multiple Injured (2026)",
+    excerpt: "A devastating tornado outbreak in Mississippi has left roughly 400 homes damaged and at least 17 people injured. Explore the latest updates, damage reports, and rescue operations.",
+    image: 'https://www.tinybigtalks.online/articles/image/mississippi_tornado_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/mississippi-tornado-damage-homes-destroyed-2026.html'
+  },
+  {
     id: 'billie-eilish-nat-wolff-red-carpet-debut-concert-film-2026',
     title: "Billie Eilish and Nat Wolff Make Stunning Red Carpet Debut at Hit Me Hard and Soft Premiere (2026)",
     excerpt: "Billie Eilish and Nat Wolff officially debuted on the red carpet for her concert film premiere. Explore the latest news on their relationship, career updates, and global reaction.",
