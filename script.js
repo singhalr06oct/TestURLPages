@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'top-tech-products-launching-may-2026-goes-viral',
+    title: "May 2026 Tech Product Launches Go Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "May 2026 Tech Product Launches is trending after a wave of innovative announcements from big tech. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.tinybigtalks.online/articles/image/tech_launches_may_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/top-tech-products-launching-may-2026-goes-viral.html'
+  },
+  {
     id: 'what-everyone-is-watching-driving-and-buying-in-2026',
     title: "2026 Consumer Trends Go Viral — Here’s Why Everyone Is Talking About It",
     excerpt: "2026 Consumer Trends is trending after a massive surge in AI gadgets and electric vehicles. Here’s everything we know so far, including the latest updates, public reactions, and key details.",
