@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'what-everyone-is-watching-driving-and-buying-in-2026',
+    title: "2026 Consumer Trends Go Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "2026 Consumer Trends is trending after a massive surge in AI gadgets and electric vehicles. Here’s everything we know so far, including the latest updates, public reactions, and key details.",
+    image: 'https://www.tinybigtalks.online/articles/image/consumer_trends_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/what-everyone-is-watching-driving-and-buying-in-2026.html'
+  },
+  {
     id: 'canvas-hack-goes-viral-instructure-2026',
     title: "Canvas Hack Goes Viral — Here’s Why Everyone Is Talking About It",
     excerpt: "Canvas is trending after reports of a massive data breach affecting millions of users. Here’s everything we know so far, including the latest updates and public reactions.",
