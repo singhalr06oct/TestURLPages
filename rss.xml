@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>TinyBigTalks</title>
-  <link>https://www.tinybigtalks.online/index.html</link>
+  <link>https://www.tinybigtalks.online/</link>
   <description>Insightful Blog on Finance, Tech, LifeStyle, Sports and more</description>
   <language>en-us</language>
   <atom:link href="https://www.tinybigtalks.online/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>TinyBigTalks | Insightful Blog on Finance, Tech, LifeStyle, Sports and more</title>
-    <link>https://www.tinybigtalks.online/index.html</link>
-    <guid isPermaLink="true">https://www.tinybigtalks.online/index.html</guid>
+    <link>https://www.tinybigtalks.online/</link>
+    <guid isPermaLink="true">https://www.tinybigtalks.online/</guid>
     <description>Every day brings something new at TinyBigTalks, where finance meets life through fresh eyes. Catch what’s moving markets, shaping tech, shifting routines, or lighting up stadiums - all laid out plainly. Tips come from those who know, stories unfold without noise, details matter more than drama. Life moves fast - your view stays clear, grounded in real updates, not guesses. What counts most shows up right here, each morning, ready when you are.</description>
     <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
   </item>
