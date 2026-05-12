@@ -297,6 +297,62 @@ const ARTICLE_DATA = [
   },
   // Other categories (restoring previous counts)
   {
+    id: 'iran-ceasefire-life-support-viral',
+    title: "Iran Ceasefire on Life Support Goes Viral — Why Everyone discuss About It",
+    excerpt: "Iran ceasefire on life support is trending after Trump's comments on the fragility of the truce. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.financereport.online/articles/image/iran-ceasefire-life-support-viral.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/iran-ceasefire-life-support-viral.html'
+  },
+  {
+    id: 'social-security-may-13-viral',
+    title: "May 13 Social Security Check Goes Viral — Why Everyone Talking About It",
+    excerpt: "May 13 social security check is trending after the SSA announced the payment schedule for May 2026. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.financereport.online/articles/image/social-security-may-13-viral.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/social-security-may-13-viral.html'
+  },
+  {
+    id: 'beginner-investing-viral-2026',
+    title: "Beginner Investing Trends Go Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "Beginner investing trends are trending after a surprise surge in retail participation during the 2026 market uncertainty. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.financereport.online/articles/image/beginner-investing-viral-2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/beginner-investing-viral-2026.html'
+  },
+  {
+    id: 'luxury-spending-viral-2026',
+    title: "Luxury Spending Trends Go Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "Luxury spending trends are trending after a surprise surge in sales during the 2026 economic slowdown. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.financereport.online/articles/image/luxury-spending-viral-2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/luxury-spending-viral-2026.html'
+  },
+  {
+    id: 'gold-prices-go-viral-2026',
+    title: "Gold Prices Go Viral — Here’s Why Everyone Is Talking About It",
+    excerpt: "Gold prices are trending after reaching a new record high in 2026. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.financereport.online/articles/image/gold-prices-go-viral-2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/gold-prices-go-viral-2026.html'
+  },
+  {
+    id: 'top-5-global-events-today-2026',
+    title: "Top 5 Global Events You Should Know Today",
+    excerpt: "Stay informed with the top 5 global events today. Explore breaking world news 2026, international headlines, and the biggest stories shaping our planet.",
+    image: 'https://www.financereport.online/articles/image/top-5-global-events-today-2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/top-5-global-events-today-may-2026.html'
+  },
+  {
+    id: 'sk-hynix-shares-rally-ai-chip-demand-2026',
+    title: "SK Hynix Shares Rally 12% as AI Chip Demand Surges: What Investors Need to Know in 2026",
+    excerpt: "SK Hynix shares surge 12% as AI chip demand reaches new heights. Discover the SK Hynix stock rally 2026, Nvidia partnership impact, and HBM chip growth analysis.",
+    image: 'https://www.financereport.online/articles/image/sk-hynix-shares-rally-2026.webp',
+    category: 'Finance',
+    url: 'https://www.financereport.online/articles/sk-hynix-shares-rally-ai-chip-demand-2026.html'
+  },
+  {
     id: 'fin-20',
     title: "AI-Driven Revenue Models: The Next Evolution of Corporate Profitability",
     excerpt: "Discover how AI driven revenue models in 2026 are causing tech stocks to surge overnight. Explore global AI corporate profitability trends and big tech earnings growth.",
