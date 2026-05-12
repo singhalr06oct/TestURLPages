@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'eileen-wang-resigns-goes-viral-2026',
+    title: "Eileen Wang Resigns Goes Viral — Why Everyone Talking About It",
+    excerpt: "Eileen Wang Resigns is trending after the Arcadia mayor stepped down over charges of acting as an illegal agent for China. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.tinybigtalks.online/articles/image/eileen_wang_resigns_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/eileen-wang-resigns-goes-viral-2026.html'
+  },
+  {
     id: 'hannah-harper-american-idol-win-goes-viral-2026',
     title: "Hannah Harper American Idol Win Goes Viral — Why Everyone Discuss This",
     excerpt: "Hannah Harper is trending after winning American Idol Season 24. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
