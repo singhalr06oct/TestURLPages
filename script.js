@@ -1,5 +1,13 @@
 const ARTICLE_DATA = [
   {
+    id: 'hannah-harper-american-idol-win-goes-viral-2026',
+    title: "Hannah Harper American Idol Win Goes Viral — Why Everyone Discuss This",
+    excerpt: "Hannah Harper is trending after winning American Idol Season 24. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
+    image: 'https://www.tinybigtalks.online/articles/image/american_idol_winner_2026.webp',
+    category: 'TinyBigTalks',
+    url: 'https://www.tinybigtalks.online/articles/hannah-harper-american-idol-win-goes-viral-2026.html'
+  },
+  {
     id: 'top-tech-products-launching-may-2026-goes-viral',
     title: "May 2026 Tech Product Launches Go Viral — Here’s Why Everyone Is Talking About It",
     excerpt: "May 2026 Tech Product Launches is trending after a wave of innovative announcements from big tech. Here’s everything we know so far, including the latest updates, public reactions, key details, and what could happen next.",
